@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'All posts |@SuryaPeddineni',
+  title: 'All posts| @SuryaPeddineni',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
