@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Surya Peddineni',
+    photo: '/.jpg',
+    bio: 'Speaker,Leader,Workday Integration Consultant.',
     contacts: {
       email: '#',
       telegram: '#',
