@@ -15,8 +15,6 @@ description: "The world of technology is getting better and better as the days p
 - [One cloud ERP system](#One-cloud-ERP-sytem)
 - [What is Workday](#What-is-Workday)
 - [Workday Overview](#Workday-Overview)
-- [Why we need to choose Workday over other ERP's](#Why-we-need-to-choose-Workday-over-other-ERPs)
-
 
 # One cloud ERP system
 
@@ -28,7 +26,6 @@ But, not everyone can get enough time to prepare for the course of learning and 
 So, I decided to share my knowledge with who are interested to learn Workday.
 
 ![Workday.png](/static/media/Workday.png)
-
 
 # What is Workday
 Workday is cloud based system which we can access via web. So, Its userfriendly and cost effective also. Workday is specialized in human capital management and financial management applications. Compared with other HCM and Finance applications workday provides more feasibility to develop the Integrations.
@@ -64,13 +61,3 @@ You are joining over 2 million workers around the world who use Workday. You are
 of enterprise business software!
 
 Welcome to Workday!
-
-# Why we need to choose Workday over other ERPs
-
-**Trust**: Being customer-centric isn’t just a fix on the wall, Workday built into business core DNA.
-
-**On-demand**: The future is here, and it makes your life an entire lot simpler. Workday's multi-tenancy design that means customers share one real example of the Workday solution without ever discussing each other’s data, making upgrades.
-
-**Global**: Workday is uniquely equipped to manage all your global requirements including assent and data privacy maintenance, managerial and juridical reporting, leave management, worldwide name, and address formats, business process configurations.
-
-**Security**: It isn’t just a check-box on the client's evaluation list, it’s center of the Workday solution. That’s why at Workday we’ve constructed protection into the framework of the foundation. 
