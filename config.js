@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'Surya Peddineni',
-    photo: '/.jpg',
+    photo: '/photo.jpg',
     bio: 'Speaker,Leader,Workday Integration Consultant.',
     contacts: {
       email: '#',
