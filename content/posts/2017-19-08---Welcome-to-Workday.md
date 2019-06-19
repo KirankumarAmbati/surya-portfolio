@@ -15,23 +15,17 @@ description: "The world of technology is getting better and better as the days p
 - [One cloud ERP system](#One-cloud-ERP-sytem)
 - [What is Workday](#What-is-Workday)
 - [Workday Overview](#Workday-Overview)
-
 # One cloud ERP system
-
 The world of technology is getting better and better as the days passed on and the companies are delivering different technologies to withstand the competition in the market.
 
 Out of the different technologies got introduced workday is becoming popular with ease of use and its services considering that it is based on Cloud platform. As per my knowledge there are different modes of learning Workday.
 
 But, not everyone can get enough time to prepare for the course of learning and the expense of learning Workday is costly too.
 So, I decided to share my knowledge with who are interested to learn Workday.
-
 ![Workday.png](/static/media/Workday.png)
-
 # What is Workday
 Workday is cloud based system which we can access via web. So, Its userfriendly and cost effective also. Workday is specialized in human capital management and financial management applications. Compared with other HCM and Finance applications workday provides more feasibility to develop the Integrations.
-
 # Workday Overview
-
 Where is your personal information, such as your address, hire date, job information, and compensation amount, currently
 stored at your company? Is it on a computer server?
 
