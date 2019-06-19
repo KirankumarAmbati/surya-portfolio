@@ -27,7 +27,7 @@ Out of the different technologies got introduced workday is becoming popular wit
 But, not everyone can get enough time to prepare for the course of learning and the expense of learning Workday is costly too.
 So, I decided to share my knowledge with who are interested to learn Workday.
 
-![Workday.jpg](/media/Workday.png)
+![Workday.png](/media/Workday.png)
 
 # What is Workday
 Workday is cloud based system which we can access via web. So, Its userfriendly and cost effective also. Workday is specialized in human capital management and financial management applications. Compared with other HCM and Finance applications workday provides more feasibility to develop the Integrations.
