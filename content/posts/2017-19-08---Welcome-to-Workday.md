@@ -15,7 +15,7 @@ description: "The world of technology is getting better and better as the days p
 - [One cloud ERP system](#One-cloud-ERP-sytem)
 - [What is Workday](#What-is-Workday)
 - [Workday Overview](#Workday-Overview)
-- [Why we need to choose Workday over other ERP's](#Why-we-need-to-choose-Workday-over-other-ERP's)
+- [Why we need to choose Workday over other ERP's](#Why-we-need-to-choose-Workday-over-other-ERPs)
 
 
 # One cloud ERP system
@@ -64,7 +64,7 @@ of enterprise business software!
 
 Welcome to Workday!
 
-# Why we need to choose Workday over other ERP's
+# Why we need to choose Workday over other ERPs
 
 **Trust**: Being customer-centric isn’t just a fix on the wall, Workday built into business core DNA.
 
