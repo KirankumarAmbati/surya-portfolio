@@ -1,5 +1,5 @@
 ---
-title: Welcome to Workday
+title: Navigation to Workday
 date: "2017-08-30T17:00:32.169Z"
 template: "post"
 draft: false
