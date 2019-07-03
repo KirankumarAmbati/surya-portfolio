@@ -27,9 +27,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Speaker,Leader,Workday Integration Consultant.',
     contacts: {
-      email:'suryachaitanya@outlook.in',
-      twitter:'https://twitter.com/suryapeddineni',
-      github:'https://github.com/suryapeddineni',
+      email: '#',
+      twitter: '#',
+      github: '#',
       
     }
   }
