@@ -4,4 +4,4 @@ template: "page"
 ---
 
 
-# We’d love to hear from you
+# I’d love to hear from you
