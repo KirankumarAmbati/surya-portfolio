@@ -28,9 +28,11 @@ module.exports = {
     bio: 'Speaker,Leader,Workday Integration Consultant.',
     contacts: {
       email: '#',
+      telegram: '#',
       twitter: '#',
       github: '#',
-      
+      rss: '#',
+      vkontakte: '#'
     }
   }
 };
