@@ -27,10 +27,10 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Speaker,Leader,Workday Integration Consultant.',
     contacts: {
-      email: '#',
+      email: 'suryachaitanya@outlook.in',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/suryapeddineni',
+      github: 'https://github.com/suryapeddineni',
       rss: '#',
       vkontakte: '#'
     }
