@@ -28,7 +28,7 @@ module.exports = {
     bio: 'Speaker,Leader,Workday Integration Consultant.',
     contacts: {
       email: 'suryachaitanya@outlook.in',
-      telegram: '#',
+      telegram: '#', 
       twitter: 'suryapeddineni',
       github: 'suryapeddineni',
       rss: '#',
