@@ -45,7 +45,6 @@ Document layout and matching process using workday are divided into 3 catageorie
 2. Contingent Labor
 
 3. Goods
-
                              
 The system still fuctions same way with diffrent typesof spends, However modern Interface makes the process more userfriendly for ex: Recivible goods is equal to tax log for deliverible services were time sheet for continegent labor. In addition to deliverable services, Goods and Continegent labors also have built in analytics this improves the visibility into organization spends allowed you to make inform decisions in real time a procurement Organation main goal is to provide the cost savings while implimenting best pratices in spend managemnet 
    
