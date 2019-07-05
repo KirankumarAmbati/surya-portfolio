@@ -29,8 +29,8 @@ module.exports = {
     contacts: {
       email: 'suryachaitanya@outlook.in',
       telegram: '#',
-      twitter: 'https://twitter.com/suryapeddineni',
-      github: 'https://github.com/suryapeddineni',
+      twitter: 'suryapeddineni',
+      github: 'suryapeddineni',
       rss: '#',
       vkontakte: '#'
     }
