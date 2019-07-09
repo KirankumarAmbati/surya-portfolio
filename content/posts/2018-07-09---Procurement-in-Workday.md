@@ -1,6 +1,6 @@
 ---
 title: Workday Procurement
-date: "2017-09-07T18:00:32.169Z"
+date: "2018-09-07T18:00:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/Workday Procurement/"
