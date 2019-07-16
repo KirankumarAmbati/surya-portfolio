@@ -1,6 +1,6 @@
 ---
 title: Navigation to Workday
-date: "2018-08-30T17:00:32.169Z"
+date: "2018-11-17T17:00:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/Workday Navigartion/"
